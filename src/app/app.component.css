@@ -1,0 +1,22 @@
+ /* button style */
+ button {
+   
+    color: #fff;
+    padding: 14px 12px 18px;
+    margin: 0px;
+    font-size: 20px;
+    width: 80px;
+    background-color: black;
+    cursor: pointer;
+}
+  
+ input{
+    width: 50px;
+    height: 55px;
+    text-align: center;
+    background: dodgerblue;
+    color: black;
+ }
+ .input-group{
+    padding: 20% 0 0 42%;
+ }
